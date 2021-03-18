@@ -1,9 +1,9 @@
 # dinner-queue-management
-dinner queue management
+点餐排队系统
 
 项目npm安装
 ```
-npm instart
+npm install
 ```
 babel安装
 ```
@@ -19,13 +19,16 @@ npm install webpack -g
 npm install webpack --save-dev
 npm install webpack-cli --save-dev 
 ```
-QueueManagement
 
-启动
+webpack前端代码打包
+```
+npm run build
+或webpack --watch  //热加载
+```
+项目启动
 ```
 npm run dev
 ```
-
 在浏览器里输入
 ```
 127.0.0.1:7001/
