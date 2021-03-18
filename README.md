@@ -1,4 +1,5 @@
-# 点餐排队系统
+# dinner-queue-management
+点餐排队系统
 
 项目npm安装
 ```
